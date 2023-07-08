@@ -1,7 +1,3 @@
-# Dokumentation
-
-Dokumentation is a minimal ~1.1 kB (minified and gzipped) CSS framework with documentation in mind.
-
 ## Installation
 
 Add the Dokumentation CSS file.
@@ -19,6 +15,8 @@ Or install it with NPM.
 ```shell
 npm install dokumentation
 ```
+
+---
 
 ## Basic structure
 
@@ -40,15 +38,21 @@ npm install dokumentation
 </div>
 ```
 
+---
+
 ## Available Tags
 
 All common tags are available.
 
 A demonstration of all elements can be found [here](https://tobiasroeder.github.io/Dokumentation/elements).
 
+--
+
 ## Demo
 
 [See it in action](https://tobiasroeder.github.io/Dokumentation/elements) or [try it yourself](https://codepen.io/tobiasroeder/pen/QWJqXxb).
+
+--
 
 ## Credits
 
