@@ -51,13 +51,13 @@ All common tags are available.
 
 A demonstration of all elements can be found [here](https://tobiasroeder.github.io/Dokumentation/elements).
 
---
+---
 
 ## Demo
 
 [See it in action](https://tobiasroeder.github.io/Dokumentation/elements) or [try it yourself](https://codepen.io/tobiasroeder/pen/QWJqXxb).
 
---
+---
 
 ## Credits
 
